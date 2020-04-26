@@ -16,8 +16,6 @@
 
 2.apk文件：homework2/homework-debug.apk
 
-3.完成程度：基本还原所给示例
-
 
 
 ## Chapter3_homework
@@ -34,5 +32,10 @@
 
 2.apk文件：homework4/Chapter-4/app-debug.apk
 
-3.完成程度：实现时钟基本要求
 
+
+## Chapter5_homework
+
+1.工程文件：homework5/Chapter-5/Homework
+
+2.apk文件：homework4/Chapter-4/app-debug.apk
