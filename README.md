@@ -39,3 +39,17 @@
 1.工程文件：homework5/Chapter-5/Homework
 
 2.apk文件：homework4/Chapter-4/app-debug.apk
+
+
+
+## Chapter6_homework
+
+1.工程文件：
+
+- 基础版：homework6/Chapter-6/assignment/todolist
+- Pro版：homework6/Chapter-6/assignment/todolist-pro
+
+2.apk文件：
+
+- 基础版：homework6/Chapter-6/apk/todolist/app-debug.apk
+- Pro版：homework6/Chapter-6/apk/todolist-pro/app-debug.apk
