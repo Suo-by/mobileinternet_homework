@@ -52,6 +52,16 @@
 2.apk文件：
 
 - 基础版：homework6/Chapter-6/apk/todolist/app-debug.apk
+
 - Pro版：homework6/Chapter-6/apk/todolist-pro/app-debug.apk
 
 - 程序改进：list的等级重新划分为：Urget、Hight、Normal、Ordinary、Low，颜色采用蓝色（从深到浅）
+
+  
+
+## Chapter7_homework
+
+1.工程文件：homework5/Chapter-7/assignment
+
+2.apk文件：homework4/Chapter-4/app-debug.apk
+
